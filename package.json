@@ -1,0 +1,22 @@
+{
+  "name": "node-js-in-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoRoy/node-js-in-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoRoy/node-js-in-action/issues"
+  },
+  "homepage": "https://github.com/xiaoRoy/node-js-in-action#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
